@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 
-import vanIllustration from "../../assets/images/about/vanlife.jpg";
+import vanIllustration from "../../assets/images/about/vanlife.JPG";
 
 function AboutSection() {
   return (
